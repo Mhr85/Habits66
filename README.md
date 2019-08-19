@@ -1,6 +1,6 @@
 # Habits*66*
 
-## Habit 21 is a full stack MERN (MongoDB, Express, React, Node.js) application.
+## Habit 66 is a full stack MERN (MongoDB, Express, React, Node.js) application.
 
 Habit Tracker helps you learn the most effective process, increase self-awareness and set priorities so achieving your goals is easier than ever. It is a tool that enables you to build good habits by tracking them. Habits shape your life! 40 percent of your actions are not conscious decisions but habits. So habits are a big part of your life - and a lot of the time you don’t even notice it!
 
